@@ -1,0 +1,7 @@
+jean@email.com;Jean;Grey;Regular User
+james@email.com;James;Howlett;Regular User
+professor@email.com;Charles;Xavier;Administrator
+remy@email.com;Remy;LeBeau;Regular User
+rob@email.com;Robert;Drake;Regular User
+magneto@email.com;Erik;Lehnsherr;Administrator
+scott@email.com;Scott;Summers;Regular User

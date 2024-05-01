@@ -1,0 +1,12 @@
+#Information about endpoints
+
+#/api/user/filter
+       You can use parameters: userId, firstName, lastName, password, accessType.
+       All results are sorted by "userId" in ascending order.
+       Example: /api/user/filter?accessType=regular%20user
+
+#api/user/{userId}
+       Example: api/user/professor@email.com
+
+
+
